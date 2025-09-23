@@ -15,7 +15,7 @@ Date: September 2025.
 > ### Project Report
 > For a comprehensive review of this assignment, please see the full report document located in the `/report` directory. It contains all commented queries, high-resolution screenshots, and detailed interpretations.
 
-##Business Problem
+>##Business Problem
 This project addresses a business problem for a Rwandan retail company to provide data-driven insights for strategic decisions.
   1.Business Context: A retail sales company with branches in Kigali, Huye, and Musanze, specializing in beverages, food, and household items. 
   
@@ -24,7 +24,7 @@ This project addresses a business problem for a Rwandan retail company to provid
   3.Expected Outcome: To leverage PL/SQL window functions to deliver actionable insights on regional product performance, monthly revenue trends, and customer value                    segmentation. 
 
   
-##Success Criteria
+>##Success Criteria
 The analysis is guided by five specific, measurable goals: 
 
 Identify the top  products per region/quarter using RANK().
@@ -38,7 +38,7 @@ Segment customers into spending quartiles using NTILE(4).
 Calculate 3-month moving averages to identify trends using AVG() OVER().
 
 
- ##Database Schema
+ >##Database Schema
 The database is designed in Third Normal Form (3NF) to ensure data integrity and consists of three related tables.
 
 customers: Stores unique customer information.
@@ -67,7 +67,7 @@ This ER diagram models the retail sales database, showing how the CUSTOMERS and 
 
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/92879267-8e8f-4a26-be51-990d2f76e2df" />
 
-##Window Functions Implementation
+>##Window Functions Implementation
 
 I have implemented the 4 categories of window functions. Include query, screenshot, and interpretation
 
@@ -102,7 +102,7 @@ D. Distribution Functions
 Interpretation:
 The NTILE (4) function divides customers into four distinct segments. The top two customers fall into Quartile 1, representing the highest-spending group. The CUME_DIST shows that the top 43% of customers (tiers 1 and 2) generate the majority of the revenue, allowing marketing to focus its efforts effectively.
 
-##Results Analysis
+>##Results Analysis
 Descriptive (What happened?): The analysis revealed that customer value is highly concentrated, with the top customer, Reece James, contributing significantly more revenue (65,000 RWF). Sales performance varies dramatically by region; the Huye region showed strong month-over-month growth, while Kigali experienced more volatility.
 
 Diagnostic (Why?): The revenue concentration is likely due to repeat, high-value purchases from loyal customers. The sales growth in Huye could be attributed to successful local marketing, while volatility in other regions may be due to seasonal factors or inconsistent promotions.

@@ -109,7 +109,7 @@ Diagnostic (Why?): The revenue concentration is likely due to repeat, high-value
 
 Prescriptive (What next?): The business should implement a loyalty program to retain top-quartile customers. Furthermore, they should analyze the successful strategies in Huye to replicate them in other regions and launch targeted promotions for lower-spending customer segments.
 
- ##References
+ >References
 Oracle Corporation. (2025). Database SQL Language Reference: Analytic Functions.
 
 Maniraguha, E. (2025). Lecture 01 - Introduction to SQL Command Basics (Recap).

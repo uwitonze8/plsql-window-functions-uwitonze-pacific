@@ -13,10 +13,12 @@ student id: 26893.
 Date: September 2025.
 
 > Project Report
- For a comprehensive review of this assignment, please see the full report document located in the `/report` directory. It contains all commented queries, high-resolution screenshots, and detailed interpretations.
+
+For a comprehensive review of this assignment, please see the full report document located in the `/report` directory. It contains all commented queries, high-resolution screenshots, and detailed interpretations.
 
 >Business Problem
 This project addresses a business problem for a Rwandan retail company to provide data-driven insights for strategic decisions.
+
   1.Business Context: A retail sales company with branches in Kigali, Huye, and Musanze, specializing in beverages, food, and household items. 
   
   2.Data Challenge: Management needs to analyze customer purchasing behavior and sales performance to identify top products, track growth patterns, and effectively segment             customers for targeted promotions. 

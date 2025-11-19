@@ -1,4 +1,4 @@
-STUDENT AND COURSE INFORMATION
+
 
 PL/SQL Window Functions Mastery Project.
 

@@ -1,6 +1,4 @@
-STUDENT AND COURSE INFORMATION
 
-PL/SQL Window Functions Mastery Project.
 
 Course: Database Development with PL/SQL (INSY 8311). 
 

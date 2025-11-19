@@ -126,12 +126,6 @@ SQLShack. (2021). Overview of SQL RANK functions.
 
 DataCamp. (2024). SQL Window Functions Tutorial.
 
-Essential SQL. (2023). SQL Window Functions Introduction.
-
-W3Schools. (2025). SQL Window Functions.
-
-TowardsDataScience. (2023). The Simple Yet Powerful SQL Window Function.
-
 
 
 
